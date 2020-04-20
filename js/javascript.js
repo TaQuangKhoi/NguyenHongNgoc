@@ -1,4 +1,6 @@
-﻿var slideIndex = 1;
+﻿alert
+("test link of .js");
+var slideIndex = 1;
 showSlides(slideIndex);
 
 // Next/previous controls
