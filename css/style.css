@@ -3,8 +3,8 @@
 /* Slideshow container */
 .slideshow-container {
   /* max-width: 1000px; */
-  height: 25%;
-  width: 25%;
+  height: auto;
+  width: auto;
   position: relative;
   margin: auto;
 }
