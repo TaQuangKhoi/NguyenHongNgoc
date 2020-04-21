@@ -1,4 +1,8 @@
-﻿* {box-sizing:border-box}
+﻿* {
+  position: absolute;
+  box-sizing:border-box
+}
+
 
 /* Slideshow container */
 .slideshow-container {
