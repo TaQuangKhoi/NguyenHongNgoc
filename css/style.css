@@ -1,5 +1,5 @@
 ﻿* {
-  position: absolute;
+  /* position: absolute; gây lỗi */
   box-sizing:border-box
 }
 
