@@ -2,9 +2,19 @@
   position: absolute;
   box-sizing:border-box
 }
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+body{
+  -webkit-font-smoothing: antialiased;
+}
+>>>>>>> Stashed changes
 .nhn{
   align-items: left;
 }
+=======
+
+>>>>>>> parent of 320aaa2... align-items: left
 
 /* Slideshow container */
 .slideshow-container {
