@@ -2,7 +2,9 @@
   position: absolute;
   box-sizing:border-box
 }
-
+.nhn{
+  align-items: left;
+}
 
 /* Slideshow container */
 .slideshow-container {
